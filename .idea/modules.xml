@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/360Views.iml" filepath="$PROJECT_DIR$/360Views.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlevr/googlevr.iml" filepath="$PROJECT_DIR$/googlevr/googlevr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opengleslib/opengleslib.iml" filepath="$PROJECT_DIR$/opengleslib/opengleslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewvr/webviewvr.iml" filepath="$PROJECT_DIR$/webviewvr/webviewvr.iml" />
+    </modules>
+  </component>
+</project>
